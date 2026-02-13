@@ -2,6 +2,6 @@
 p = 5   # 0101
 q = 3   # 0011
 
-print(p & q)   # AND
+print(p & q)  
 print(p | q)   # OR
 print(p ^ q)   # XOR
